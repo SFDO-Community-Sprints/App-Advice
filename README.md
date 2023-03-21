@@ -45,7 +45,8 @@ This is a legacy Community sourced list of commonly used Salesforce Apps by the 
   - Completed Doc Merge (Quip)
   - Completed Event Management (Quip)
   - Completed Scheduling (Quip)
- ###Open Questions
+
+### Open Questions
  -  Where to host research
  -  How often to update
  -  How to source updates from community/third-party vendors
