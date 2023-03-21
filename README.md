@@ -21,13 +21,9 @@ nov22-commons-app-advice-revamp
 - [Consumer Reports Overview](https://docs.google.com/document/d/1EYliM9kvI0ueX_vARW9MksExAxCc-fr8JFZVIqd7LOE/edit#) - History from Katie McFadden
 - [Consumer Reports Folder of resources](https://drive.google.com/drive/u/0/folders/0B50OdgNdfpHiYnU5Ry1xWmpCTlE)
 
-Future Sprint Notes and updates can be found here
 
-
-
-
-## March 2023 Sprint Details
-# Project Team & Accomplishments
+# March 2023 Sprint Details
+## Project Team & Accomplishments
 
 - Juweriya Afreen, Contributor, https://github.com/J-afreen  
 - Clair Lam, Contributor, https://github.com/clairlam      
@@ -38,9 +34,22 @@ Future Sprint Notes and updates can be found here
 
                                           
 
-# Future Contributions (AKA what were you unable to finish at the Sprint)
+## Future Contributions (AKA what were you unable to finish at the Sprint)
+
+##Past Sprint Accomplishments
+**<em>November 2022 Sprint</em>**
+  - Updated Backup
+  - Updated Online Forms
+  - Completed Address Verification (Quip)
+  - Completed Doc Merge (Quip)
+  - Completed Event Management (Quip)
+  - Completed Scheduling (Quip)
+ ###Open Questions
+ -  Where to host research
+ -  How often to update
+ -  How to source updates from community/third-party vendors
+ -  Role in Trailblazer Community
 
 
-***
 
 
