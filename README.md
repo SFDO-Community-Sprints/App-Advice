@@ -5,7 +5,7 @@
 This is a legacy Community sourced list of commonly used Salesforce Apps by the Salesforce.org community that needs a revamp! The “App Advice and Consumer Reports” [group in the Trailblazer Community]((https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)) (formerly from the Power of Us Hub) is 100% community created and maintained.
 
 ## Vision & Goals
-* Maintain [Community sourced list](https://docs.google.com/spreadsheets/d/1GwN3aBNfTGY-Hzgcnjxv2D8qShFvbLoLlea-bCuw10w/edit#gid=160786259) of commonly used Salesforce Apps by the Salesforce.org community
+* Maintain Community sourced list of commonly used Salesforce Apps by the Salesforce.org community
 
 
 
