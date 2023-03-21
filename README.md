@@ -9,8 +9,8 @@ This is a legacy Community sourced list of commonly used Salesforce Apps by the 
 
 
 
-## Trailblazer Group or Slack Channel Link (access required)
-[group in the Trailblazer Community]((https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)) 
+## Trailblazer Group
+[App Advice and Consumer Reports](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)
 
 
 ## How to Contribute:
