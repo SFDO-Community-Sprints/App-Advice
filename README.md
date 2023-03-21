@@ -29,16 +29,14 @@ Future Sprint Notes and updates can be found here
 ## March 2023 Sprint Details
 # Project Team & Accomplishments
 
-Full Name            | Team Role     | Github Username                                    
-------------         | Contributor   | -------------|                                    
-Juweriya Afreen      | Contributor   | -------------|    
-Clair Lam            | Contributor   | -------------|    
-Noor Mahammad        | Contributor   | -------------|  
-Jessica Rosenberg    | Group Leader  | [jessbr](https://github.com/jessbr)| 
-Judi Sohn            | Contributor   | -------------| 
+- Juweriya Afreen, Contributor  
+- Clair Lam, Contributor      
+- Noor Mahammad, Contributor
+- Jessica Rosenberg, Group Leader, [jessbr](https://github.com/jessbr)
+- Judi Sohn, Contributor      
 
 
-                                                    | Enter working group name
+                                          
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 
