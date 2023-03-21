@@ -24,22 +24,24 @@ nov22-commons-app-advice-revamp
 Future Sprint Notes and updates can be found here
 
 
-***
-BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR SPRINT PARTICIPATION. 
-1. Cut the below from the readme and paste into a new Wiki page. Delete these instructions.
-2. Update that wiki page with details from the Sprint. 
-3. Copy that format for the next Sprint.
 
-## Sprint (DATE): 
+
+## March 2023 Sprint Details
 # Project Team & Accomplishments
 
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Full Name            | Team Role     | Github Username                                    
+------------         | Contributor   | -------------|                                    
+Juweriya Afreen      | Contributor   | -------------|    
+Clair Lam            | Contributor   | -------------|    
+Noor Mahammad        | Contributor   | -------------|  
+Jessica Rosenberg    | Group Leader  | [jessbr](https://github.com/jessbr)| 
+Judi Sohn            | Contributor   | -------------| 
+
+
+                                                    | Enter working group name
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
+
 
 ***
 
