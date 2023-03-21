@@ -36,7 +36,8 @@ This is a legacy Community sourced list of commonly used Salesforce Apps by the 
 
 ## Future Contributions (AKA what were you unable to finish at the Sprint)
 
-##Past Sprint Accomplishments
+## Past Sprint Accomplishments
+
 **<em>November 2022 Sprint</em>**
   - Updated Backup
   - Updated Online Forms
