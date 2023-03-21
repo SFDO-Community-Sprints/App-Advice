@@ -29,11 +29,11 @@ Future Sprint Notes and updates can be found here
 ## March 2023 Sprint Details
 # Project Team & Accomplishments
 
-- Juweriya Afreen, Contributor  
-- Clair Lam, Contributor      
-- Noor Mahammad, Contributor
-- Jessica Rosenberg, Group Leader, [jessbr](https://github.com/jessbr)
-- Judi Sohn, Contributor      
+- Juweriya Afreen, Contributor, https://github.com/J-afreen  
+- Clair Lam, Contributor, https://github.com/clairlam      
+- Noor Mahammad, Contributor, https://github.com/SANoor17
+- Jessica Rosenberg, Group Leader,https://github.com/jessbr
+- Judi Sohn, Contributor, https://github.com/judisohn      
 
 
                                           
