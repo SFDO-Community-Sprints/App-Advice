@@ -2,10 +2,7 @@
 # App Advice and Consumer Reports
 
 # Project Overview
-This is a legacy Community sourced list of commonly used Salesforce Apps by the Salesforce.org community that needs a revamp! The “App Advice and Consumer Reports” [group in the Trailblazer Community]((https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)) (formerly from the Power of Us Hub) is 100% community created and maintained.
-
-## Vision & Goals
-* Maintain Community sourced list of commonly used Salesforce Apps by the Salesforce.org community
+This was a legacy community sourced list of commonly used Salesforce Apps by the Salesforce.org community. While these spreadsheets were useful for many years they have since become outdated and are no longer being maintained. During the March 2023 sprint, it was determined that these spreadsheets would be retired and that the App Advice Sprint Group would work on a more sustainable path forward for App Advice. The The “App Advice and Consumer Reports” [group in the Trailblazer Community]((https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)) (formerly from the Power of Us Hub) is still active as community members visit this group to solicit advice about nonprofit-focused apps and integrations. 
 
 
 
@@ -13,28 +10,24 @@ This is a legacy Community sourced list of commonly used Salesforce Apps by the 
 [App Advice and Consumer Reports](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)
 
 
-## How to Contribute:
-- Way 1. Join us at the next sprint and pick an app focus you want to work on. During the sprint, we'll work on researching relevant apps and updating the App Advice and Consumer Reports documentation
-
-# Project Resources and Documentation
-- Current documentation can be found in the [Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHigSAE?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)
-- [Consumer Reports Overview](https://docs.google.com/document/d/1EYliM9kvI0ueX_vARW9MksExAxCc-fr8JFZVIqd7LOE/edit#) - History from Katie McFadden
-- [Consumer Reports Folder of resources](https://drive.google.com/drive/u/0/folders/0B50OdgNdfpHiYnU5Ry1xWmpCTlE)
-
 
 # March 2023 Sprint Details
-## Project Team & Accomplishments
+## Project Team 
 
 - Juweriya Afreen, Contributor, https://github.com/J-afreen  
-- Clair Lam, Contributor, https://github.com/clairlam      
-- Noor Mahammad, Contributor, https://github.com/SANoor17
 - Jessica Rosenberg, Group Leader,https://github.com/jessbr
-- Judi Sohn, Contributor, https://github.com/judisohn      
+- Judi Sohn, Contributor, https://github.com/judisohn
 
-
+## Accomplishments
+- Reviewed all App Advice Google Sheets to highlight apps that we would still recommend (where these are housed TBD)
+- Revised current App Advice and Consumer Reports group description to remove any reference to spreadsheets
+- Removed spreadsheets from the App Advice and Consumer Reports group
                                           
 
 ## Future Contributions (AKA what were you unable to finish at the Sprint)
+- Determine where curated App advice should live
+- Continue discussing best way to curate recommendations
+
 
 ## Past Sprint Accomplishments
 
